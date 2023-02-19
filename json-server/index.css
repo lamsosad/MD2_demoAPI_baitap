@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    align-items: center;
+    padding: 20px 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 40%;
+    height: 300px;
+    text-align: center;
+    font-size: larger;
+}
+
+table tr .title {
+    background-color: rgb(228, 219, 172);
+}
+
+input {
+    width: 300px;
+    height: 40px;
+}
+
+.pro,
+tr,
+th,
+td {
+    border: 1px solid black;
+}
+
+.pro {
+    width: 680px;
+    height: auto;
+}
+.pro th {
+    background-color: antiquewhite;
+}

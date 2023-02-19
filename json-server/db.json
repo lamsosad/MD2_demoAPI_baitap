@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "address": "HN",
+      "cmt": ""
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "address": "DN",
+      "cmt": ""
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van C",
+      "address": "HN",
+      "cmt": ""
+    },
+    {
+      "id": 4,
+      "name": "Nguyen Van D",
+      "address": "HCM",
+      "cmt": ""
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
